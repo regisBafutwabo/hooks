@@ -6,9 +6,9 @@ collection of customized react hooks functions
 - [x] useTabs
 - [x] useTitle
 - [x] useClick
-- [x] useConfirm
-- [x] usePreventLeave
-- [ ] useBeforeLeave
+- [x] useConfirm (No hooks)
+- [x] usePreventLeave (No hoooks)
+- [x] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useNetwork
 - [ ] useAxios
