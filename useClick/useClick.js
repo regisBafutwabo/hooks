@@ -3,7 +3,9 @@
  * - function for event listeners / on click events
  ******************************************************************************/
 export const useClick = onClick => {
-    debugger;
+    if(typeof onClick !== 'function'){
+        return;
+    }
     const element = useRef();
     useEffect(() => {
       //componentDidMount
