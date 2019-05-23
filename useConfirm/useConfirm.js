@@ -1,5 +1,5 @@
 /************************ useConfirm *********************************************
- * - function opening a confirmation box on an event listener
+ * - function for opening a confirmation box on an event listener
  ******************************************************************************/
 
 export const useConfirm = (message, onConfirm, onCancel) => {
