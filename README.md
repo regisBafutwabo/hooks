@@ -12,6 +12,6 @@ collection of customized react hooks functions
 - [ ] useFadeIn
 - [x] useNetwork
 - [ ] useAxios
-- [ ] useNotification
+- [x] useNotification
 - [ ] useScroll
 - [ ] useFullScreen
