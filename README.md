@@ -10,7 +10,7 @@ collection of customized react hooks functions
 - [x] usePreventLeave (No hoooks)
 - [x] useBeforeLeave
 - [ ] useFadeIn
-- [ ] useNetwork
+- [x] useNetwork
 - [ ] useAxios
 - [ ] useNotification
 - [ ] useScroll
