@@ -7,7 +7,7 @@ collection of customized react hooks functions
 - [x] useTitle
 - [x] useClick
 - [x] useConfirm
-- [ ] usePreventLeave
+- [x] usePreventLeave
 - [ ] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useNetwork
